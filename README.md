@@ -12,9 +12,9 @@
 - [其他有趣的库](#其他有趣的库)
 
 ## 已更新的库
-1.  ## VisualPython ，
+- ## VisualPython
    官方文档：[Visual Python Documentation](https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python)。这个文档提供了有关如何安装、使用以及利用 `VisualPython` 进行数据可视化的详细指南和教程。
-2.  ## Pyvis
+- ## Pyvis
    强烈建议各位自己去动手试一下，这个库非常的有意思，官方文档：https://pyvis.readthedocs.io/en/latest/install.html
 
 
