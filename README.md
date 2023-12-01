@@ -12,10 +12,10 @@
 - [其他有趣的库](#其他有趣的库)
 
 ## 已更新的库
-1.  ## VisualPython ## ，官方文档：[Visual Python Documentation](https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python)【14†source】。
-   这个文档提供了有关如何安装、使用以及利用 `VisualPython` 进行数据可视化的详细指南和教程。
+1.  ## VisualPython ，
+   官方文档：[Visual Python Documentation](https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python)。这个文档提供了有关如何安装、使用以及利用 `VisualPython` 进行数据可视化的详细指南和教程。
 
----
+
 
 希望你能在这些库中找到对你有用的工具。如果你有任何建议或想要添加的库，请随时提出 Issue 或 Pull Request。
 或者关注公众号“商科智慧”
