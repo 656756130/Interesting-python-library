@@ -16,6 +16,8 @@
    官方文档：[Visual Python Documentation](https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python)。这个文档提供了有关如何安装、使用以及利用 `VisualPython` 进行数据可视化的详细指南和教程。
 - ## Pyvis
    强烈建议各位自己去动手试一下，这个库非常的有意思，官方文档：https://pyvis.readthedocs.io/en/latest/install.html
+  - ## Pyvis
+   强烈建议各位自己去动手试一下，这个库非常的有意思，官方文档：https://dalex.drwhy.ai/python/
 
 
 希望你能在这些库中找到对你有用的工具。如果你有任何建议或想要添加的库，请随时提出 Issue 或 Pull Request。
